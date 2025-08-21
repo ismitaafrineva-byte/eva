@@ -18,7 +18,7 @@ export default function Portfolio() {
       {/* Hero Section */}
       <section className="text-center py-20 bg-gradient-to-r from-blue-500 to-purple-600 text-white">
         <motion.h2 initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} className="text-4xl font-bold mb-4">
-          Hi, I'm [Your Name]
+          Hi, I'm [Eva]
         </motion.h2>
         <p className="text-lg mb-6">A passionate developer creating modern web applications</p>
         <Button asChild>
